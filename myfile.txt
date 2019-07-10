@@ -1,1 +1,2 @@
 My test file for bootcamp
+Hello. This is a line of text. 
