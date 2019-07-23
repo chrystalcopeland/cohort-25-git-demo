@@ -1,3 +1,6 @@
 My file for bootcamp
 
-Hello. This is a line of text. 
+Hello. This is a line of text.
+
+This git branching stuff is both new and confusing.
+ 
